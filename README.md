@@ -1,3 +1,9 @@
+
+News 365
+==================================
+ News 365 is example PHP Script. It is include insert, edit and delete database code with php.
+
+
 Installation
 ==================================
 
