@@ -1,6 +1,6 @@
 <?php
 error_reporting( E_ALL & ~E_DEPRECATED & ~E_NOTICE );
-if(!mysql_connect("188.121.44.184:3306","user","29082908"))
+if(!mysql_connect("localhost","user","password"))
 {
 	die('oops connection problem ! --> '.mysql_error());
 }
